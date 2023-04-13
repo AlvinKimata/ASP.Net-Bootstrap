@@ -5,4 +5,24 @@
     <RootNamespace>ASP.Net_Bootstrap</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\bootstrap\css\bootstrap-theme.css" />
+    <None Include="wwwroot\bootstrap\css\bootstrap-theme.css.map" />
+    <None Include="wwwroot\bootstrap\css\bootstrap-theme.min.css" />
+    <None Include="wwwroot\bootstrap\css\bootstrap-theme.min.css.map" />
+    <None Include="wwwroot\bootstrap\css\bootstrap.css" />
+    <None Include="wwwroot\bootstrap\css\bootstrap.css.map" />
+    <None Include="wwwroot\bootstrap\css\bootstrap.min.css" />
+    <None Include="wwwroot\bootstrap\css\bootstrap.min.css.map" />
+    <None Include="wwwroot\bootstrap\fonts\glyphicons-halflings-regular.eot" />
+    <None Include="wwwroot\bootstrap\fonts\glyphicons-halflings-regular.svg" />
+    <None Include="wwwroot\bootstrap\fonts\glyphicons-halflings-regular.ttf" />
+    <None Include="wwwroot\bootstrap\fonts\glyphicons-halflings-regular.woff" />
+    <None Include="wwwroot\bootstrap\fonts\glyphicons-halflings-regular.woff2" />
+    <None Include="wwwroot\bootstrap\js\bootstrap.js" />
+    <None Include="wwwroot\bootstrap\js\bootstrap.min.js" />
+    <None Include="wwwroot\bootstrap\js\npm.js" />
+    <None Include="wwwroot\index.html" />
+  </ItemGroup>
+
 </Project>

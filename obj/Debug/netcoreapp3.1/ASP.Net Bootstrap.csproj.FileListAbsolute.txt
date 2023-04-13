@@ -6,7 +6,6 @@ C:\Users\debonair\OneDrive\Documents\web_app_dev\ASP.Net Bootstrap\bin\Debug\net
 C:\Users\debonair\OneDrive\Documents\web_app_dev\ASP.Net Bootstrap\bin\Debug\netcoreapp3.1\ASP.Net Bootstrap.runtimeconfig.dev.json
 C:\Users\debonair\OneDrive\Documents\web_app_dev\ASP.Net Bootstrap\bin\Debug\netcoreapp3.1\ASP.Net Bootstrap.dll
 C:\Users\debonair\OneDrive\Documents\web_app_dev\ASP.Net Bootstrap\bin\Debug\netcoreapp3.1\ASP.Net Bootstrap.pdb
-C:\Users\debonair\OneDrive\Documents\web_app_dev\ASP.Net Bootstrap\obj\Debug\netcoreapp3.1\ASP.Net Bootstrap.csproj.AssemblyReference.cache
 C:\Users\debonair\OneDrive\Documents\web_app_dev\ASP.Net Bootstrap\obj\Debug\netcoreapp3.1\ASP.Net Bootstrap.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\debonair\OneDrive\Documents\web_app_dev\ASP.Net Bootstrap\obj\Debug\netcoreapp3.1\ASP.Net Bootstrap.AssemblyInfoInputs.cache
 C:\Users\debonair\OneDrive\Documents\web_app_dev\ASP.Net Bootstrap\obj\Debug\netcoreapp3.1\ASP.Net Bootstrap.AssemblyInfo.cs
