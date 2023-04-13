@@ -18,3 +18,4 @@ C:\Users\debonair\OneDrive\Documents\web_app_dev\ASP.Net Bootstrap\obj\Debug\net
 C:\Users\debonair\OneDrive\Documents\web_app_dev\ASP.Net Bootstrap\obj\Debug\netcoreapp3.1\ASP.Net Bootstrap.dll
 C:\Users\debonair\OneDrive\Documents\web_app_dev\ASP.Net Bootstrap\obj\Debug\netcoreapp3.1\ASP.Net Bootstrap.pdb
 C:\Users\debonair\OneDrive\Documents\web_app_dev\ASP.Net Bootstrap\obj\Debug\netcoreapp3.1\ASP.Net Bootstrap.genruntimeconfig.cache
+C:\Users\debonair\OneDrive\Documents\web_app_dev\ASP.Net Bootstrap\obj\Debug\netcoreapp3.1\ASP.Net Bootstrap.csproj.AssemblyReference.cache
