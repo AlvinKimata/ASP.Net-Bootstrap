@@ -1,0 +1,21 @@
+C:\Users\debonair\OneDrive\Documents\web_app_dev\ASP.Net Bootstrap\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\debonair\OneDrive\Documents\web_app_dev\ASP.Net Bootstrap\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\debonair\OneDrive\Documents\web_app_dev\ASP.Net Bootstrap\bin\Debug\netcoreapp3.1\ASP.Net Bootstrap.exe
+C:\Users\debonair\OneDrive\Documents\web_app_dev\ASP.Net Bootstrap\bin\Debug\netcoreapp3.1\ASP.Net Bootstrap.deps.json
+C:\Users\debonair\OneDrive\Documents\web_app_dev\ASP.Net Bootstrap\bin\Debug\netcoreapp3.1\ASP.Net Bootstrap.runtimeconfig.json
+C:\Users\debonair\OneDrive\Documents\web_app_dev\ASP.Net Bootstrap\bin\Debug\netcoreapp3.1\ASP.Net Bootstrap.runtimeconfig.dev.json
+C:\Users\debonair\OneDrive\Documents\web_app_dev\ASP.Net Bootstrap\bin\Debug\netcoreapp3.1\ASP.Net Bootstrap.dll
+C:\Users\debonair\OneDrive\Documents\web_app_dev\ASP.Net Bootstrap\bin\Debug\netcoreapp3.1\ASP.Net Bootstrap.pdb
+C:\Users\debonair\OneDrive\Documents\web_app_dev\ASP.Net Bootstrap\obj\Debug\netcoreapp3.1\ASP.Net Bootstrap.csproj.AssemblyReference.cache
+C:\Users\debonair\OneDrive\Documents\web_app_dev\ASP.Net Bootstrap\obj\Debug\netcoreapp3.1\ASP.Net Bootstrap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\debonair\OneDrive\Documents\web_app_dev\ASP.Net Bootstrap\obj\Debug\netcoreapp3.1\ASP.Net Bootstrap.AssemblyInfoInputs.cache
+C:\Users\debonair\OneDrive\Documents\web_app_dev\ASP.Net Bootstrap\obj\Debug\netcoreapp3.1\ASP.Net Bootstrap.AssemblyInfo.cs
+C:\Users\debonair\OneDrive\Documents\web_app_dev\ASP.Net Bootstrap\obj\Debug\netcoreapp3.1\ASP.Net Bootstrap.csproj.CoreCompileInputs.cache
+C:\Users\debonair\OneDrive\Documents\web_app_dev\ASP.Net Bootstrap\obj\Debug\netcoreapp3.1\ASP.Net Bootstrap.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\debonair\OneDrive\Documents\web_app_dev\ASP.Net Bootstrap\obj\Debug\netcoreapp3.1\staticwebassets\ASP.Net Bootstrap.StaticWebAssets.Manifest.cache
+C:\Users\debonair\OneDrive\Documents\web_app_dev\ASP.Net Bootstrap\obj\Debug\netcoreapp3.1\staticwebassets\ASP.Net Bootstrap.StaticWebAssets.xml
+C:\Users\debonair\OneDrive\Documents\web_app_dev\ASP.Net Bootstrap\obj\Debug\netcoreapp3.1\scopedcss\bundle\ASP.Net Bootstrap.styles.css
+C:\Users\debonair\OneDrive\Documents\web_app_dev\ASP.Net Bootstrap\obj\Debug\netcoreapp3.1\ASP.Net Bootstrap.RazorTargetAssemblyInfo.cache
+C:\Users\debonair\OneDrive\Documents\web_app_dev\ASP.Net Bootstrap\obj\Debug\netcoreapp3.1\ASP.Net Bootstrap.dll
+C:\Users\debonair\OneDrive\Documents\web_app_dev\ASP.Net Bootstrap\obj\Debug\netcoreapp3.1\ASP.Net Bootstrap.pdb
+C:\Users\debonair\OneDrive\Documents\web_app_dev\ASP.Net Bootstrap\obj\Debug\netcoreapp3.1\ASP.Net Bootstrap.genruntimeconfig.cache
